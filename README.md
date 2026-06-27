@@ -7,7 +7,6 @@ Features
 Dine-In Ordering — customers select a meal by table number from a structured three-course menu
 Takeaway Ordering — customers pick a food item and receive a unique 4-digit ticket number
 Admin Panel — password-protected access to manage both menus
-Full CRUD — add, view, update, and delete dine-in meals
 Takeaway Management — add, view, remove, and sort takeaway items alphabetically
 Input Validation — handles non-integer inputs and blank fields gracefully throughout
 Confirmation Prompts — deletion and removal require confirmation to prevent accidents
