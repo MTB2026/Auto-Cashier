@@ -7,8 +7,7 @@ Features
 Dine-In Ordering — customers select a meal by table number from a structured three-course menu
 Takeaway Ordering — customers pick a food item and receive a unique 4-digit ticket number
 Admin Panel — password-protected access to manage both menus
-Takeaway Management — add, view, remove, and sort takeaway items alphabetically
-Input Validation — handles non-integer inputs and blank fields gracefully throughout
+Input Validation — handles non-integer inputs and blank fields
 Confirmation Prompts — deletion and removal require confirmation to prevent accidents
 Safe Key Generation — takeaway item numbers remain unique even after deletions
 ----------------------------------------------------------------
@@ -29,11 +28,4 @@ Admin Panel
 ----------------------------------------------------------------
 Access is protected by an admin key. The default key is:
 restaurant123
-----------------------------------------------------------------
-Dine-In Menu Management
-OptionDescriptionAdd MealEnter a starter, main, and dessert to add a new three-course mealShow MealsDisplay all current dine-in meals with their index numbersUpdate MealSelect a meal to edit; press Enter on any field to keep the existing valueDelete MealSelect a meal to remove; requires confirmation before deletion
-----------------------------------------------------------------
-Takeaway Menu Management
-----------------------------------------------------------------
-OptionDescriptionAdd Food ItemEnter a food name to add to the takeaway menuShow Food ItemsDisplay all current takeaway items with their item numbersRemove Food ItemSelect an item to remove; requires confirmation before removalSort Food ItemsDisplay all takeaway items sorted alphabetically
 ----------------------------------------------------------------
