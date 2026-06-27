@@ -38,6 +38,3 @@ Takeaway Menu Management
 ----------------------------------------------------------------
 OptionDescriptionAdd Food ItemEnter a food name to add to the takeaway menuShow Food ItemsDisplay all current takeaway items with their item numbersRemove Food ItemSelect an item to remove; requires confirmation before removalSort Food ItemsDisplay all takeaway items sorted alphabetically
 ----------------------------------------------------------------
-Browse the available takeaway items.
-Enter the food number to order.
-Receive a 4-digit ticket number and confirmation that your order is being prepared.
